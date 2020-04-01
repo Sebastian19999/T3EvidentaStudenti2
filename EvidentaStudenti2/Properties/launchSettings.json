@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EvidentaStudenti2": {
+      "commandName": "Project",
+      "commandLineArgs": "5 6 7 , 3 4 7 , 4 9 10 , 5 6 8 "
+    }
+  }
+}
